@@ -104,7 +104,7 @@ texto.style.color = 'red';
 
 <br>
 
-- `dbclick` : Se activa cuando se hace doble clic en un elemento.
+- `dblclick` : Se activa cuando se hace doble clic en un elemento.
 
 <br>
 
@@ -122,8 +122,7 @@ texto.style.color = 'red';
 
 - `mousemove` : Se activa cuando el puntero del ratón se mueve mientras está sobre un elemento.
 
-- `mousemove` : Se activa cuando el puntero del ratón se mueve fuera de un elemento.
-
 - `contextmenu` : Se activa cuando se hace clic con el botón derecho del ratón (*para abrir el menu contextual*).
+
 
 </div>
